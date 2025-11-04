@@ -91,7 +91,7 @@ Scikit-learn (Random Forest) – machine learning model
 
 👩‍💻 Who created it
 
-This project was created by Gouthami as a beginner-friendly Machine Learning + Streamlit project to predict student performance in a simple and interactive way.
+This project was created by .......... as a beginner-friendly Machine Learning + Streamlit project to predict student performance in a simple and interactive way.
 
 
 ---
